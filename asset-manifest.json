@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/submissiontracker/static/css/main.19d952f0.css",
+    "main.js": "/submissiontracker/static/js/main.4200b518.js",
+    "index.html": "/submissiontracker/index.html",
+    "main.19d952f0.css.map": "/submissiontracker/static/css/main.19d952f0.css.map",
+    "main.4200b518.js.map": "/submissiontracker/static/js/main.4200b518.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19d952f0.css",
+    "static/js/main.4200b518.js"
+  ]
+}
